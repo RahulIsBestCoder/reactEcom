@@ -66,7 +66,7 @@ const Footer = () => {
             <hr />
             <div className="container grid grid-two-column ">
               <p>
-                @{new Date().getFullYear()} HattBazaar. All Rights Reserved
+                @{new Date().getFullYear()} Sougata Bauri. All Rights Reserved
               </p>
               <div>
                 <p>PRIVACY POLICY</p>
