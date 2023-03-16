@@ -42,7 +42,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: Lucida, sans-serif;;
+  font-family: Lucida, sans-serif;
 
 }
 
